@@ -376,7 +376,10 @@ footer .button_violet span {
 
 /* Desktop Media */
 @media only screen and (min-width: 1440px) {
-
+    header {
+        margin-top: 80px;
+    }
+      
     .header_wrapper {
         display: flex;
         justify-content: space-between;
